@@ -1,0 +1,10 @@
+.admin-dashboard-body {
+  display: flex;
+  margin-top: 50px; /* same as navbar height */
+}
+.admin-main-content {
+  flex: 1;
+  background-color: #f3f4f6;
+  padding: 20px;
+  min-height: calc(100vh - 50px);
+}

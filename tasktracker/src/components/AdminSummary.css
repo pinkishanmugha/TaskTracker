@@ -1,0 +1,16 @@
+.admin-summary-container {
+  padding: 20px;
+}
+
+.admin-summary-title {
+  font-size: 20px;
+  margin-bottom: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.summary-cards-wrapper {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
